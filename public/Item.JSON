@@ -1,0 +1,58 @@
+[
+    {
+        "id": "01",
+        "item": "Cabage salad",
+        "quntity": "250g",
+        "price": "4.99",
+        "img": "https://media.istockphoto.com/photos/red-cabbage-salad-coleslaw-in-a-bowl-grey-background-close-up-picture-id1171643732?k=20&m=1171643732&s=612x612&w=0&h=tuIDI9bCkaJqBCV4BYVoU5oUuDIQjD3LTfFPXOC59As="
+    },
+    {
+        "id": "02",
+        "item": "Noodle salad",
+        "quntity": "300g",
+        "price": "6.30",
+        "img": "https://www.wellplated.com/wp-content/uploads/2016/07/Asian-Noodle-Salad-with-Peanut-Sauce.jpg"
+    },
+    {
+        "id": "03",
+        "item": "Vegetable mix",
+        "quntity": "400g",
+        "price": "5.99",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmgC_QypEU609La-3m66clnzkSbwpXJfvPn4uePeuFrpUO6gogHTUHGnhXu6CO6Phx43U&usqp=CAU"
+    },
+    {
+        "id": "04",
+        "item": "Seafood soup",
+        "quntity": "350g",
+        "price": "6.10",
+        "img": "https://kellyneil.com/wp-content/uploads/2015/02/Nova-Scotia-Seafood-Chowder-21-500x500.jpg"
+    },
+    {
+        "id": "05",
+        "item": "Bean soup",
+        "quntity": "350g",
+        "price": "4.40",
+        "img": "https://planetfoodgeeks.com/wp-content/uploads/2017/06/Kidney-Soup-Recipe-How-To-Make-Kidney-Soup.jpg"
+    },
+    {
+        "id": "06",
+        "item": "Stewed vegetables",
+        "quntity": "400g",
+        "price": "4.99",
+        "img": "https://www.fyp365.com/wp-content/uploads/2019/12/M11646-Moroccan-Vegetable-Stew-granite-background-1200x500.png"
+    },
+    {
+        "id": "07",
+        "item": "Chicken soup",
+        "quntity": "350g",
+        "price": "3.99",
+        "img": "https://kfoods.com/images1/newrecipeicon/thai-soup_5332.jpg"
+    },
+    {
+        "id": "08",
+        "item": "Roast potatoes",
+        "quntity": "300g",
+        "price": "4.99",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPMrHSS54pa2xuv-zuVm1IKOzIZ1yllBGDdg&usqp=CAU"
+    }
+]
